@@ -1795,6 +1795,438 @@
         }
       },
       "overall_avg": 618.8
+    },
+    "10.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 890.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 734.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 256.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 163.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 283.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1011.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 331.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 186.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 188.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 384.0
+        },
+        "": {
+          "n_meals": 1,
+          "avg_co2": 384.0
+        }
+      },
+      "overall_avg": 437.3
+    },
+    "11.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 197.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 2540.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 94.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 102.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1274.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 414.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 174.0
+        }
+      },
+      "overall_avg": 599.4
+    },
+    "12.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 998.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 278.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 78.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 367.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 7104.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1479.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 78.0
+        }
+      },
+      "overall_avg": 1297.8
+    },
+    "13.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 1016.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 965.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 220.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 71.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1537.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 207.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 496.0
+        }
+      },
+      "overall_avg": 564.0
+    },
+    "14.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 702.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 231.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 267.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1288.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 460.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 310.0
+        }
+      },
+      "overall_avg": 465.4
+    },
+    "17.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 469.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 750.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 253.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 137.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 179.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 840.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 421.0
+        }
+      },
+      "overall_avg": 381.1
+    },
+    "18.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 396.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 2521.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 80.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1576.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 518.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 204.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 474.0
+        }
+      },
+      "overall_avg": 721.1
+    },
+    "19.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 1005.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 227.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 2968.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 118.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 1101.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 278.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 61.0
+        }
+      },
+      "overall_avg": 719.8
+    },
+    "20.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 187.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 1561.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 357.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 2,
+          "avg_co2": 905.5
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1455.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 475.0
+        }
+      },
+      "overall_avg": 730.8
+    },
+    "21.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 415.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 83.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 1489.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1252.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 491.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 287.0
+        }
+      },
+      "overall_avg": 573.9
+    },
+    "22.12.2025": {
+      "categories": {
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 228.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 72.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 622.0
+        },
+        "Fleisch": {
+          "n_meals": 2,
+          "avg_co2": 747.5
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 513.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 186.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 301.0
+        }
+      },
+      "overall_avg": 427.1
+    },
+    "23.12.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 251.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 194.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 608.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 650.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 175.0
+        }
+      },
+      "overall_avg": 313.0
     }
   },
   "Mensa Arcisstr.": {
@@ -3489,6 +3921,545 @@
         }
       },
       "overall_avg": 639.4
+    },
+    "10.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 890.0
+        },
+        "Pizza": {
+          "n_meals": 1,
+          "avg_co2": 711.0
+        },
+        "": {
+          "n_meals": 1,
+          "avg_co2": 711.0
+        },
+        "Grill": {
+          "n_meals": 2,
+          "avg_co2": 1302.5
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 256.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 163.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1011.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 186.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 52.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 322.0
+        }
+      },
+      "overall_avg": 627.9
+    },
+    "11.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 197.0
+        },
+        "Pizza": {
+          "n_meals": 1,
+          "avg_co2": 714.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 2540.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 94.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 259.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1274.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 477.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 120.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 47.0
+        }
+      },
+      "overall_avg": 635.8
+    },
+    "12.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 998.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 278.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 7151.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 78.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 367.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1479.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 76.0
+        }
+      },
+      "overall_avg": 1303.4
+    },
+    "13.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 358.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 965.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 220.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 71.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1537.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 214.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 472.0
+        }
+      },
+      "overall_avg": 479.6
+    },
+    "14.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 702.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 231.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 267.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1288.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 427.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 310.0
+        }
+      },
+      "overall_avg": 460.7
+    },
+    "17.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 469.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 685.0
+        },
+        "": {
+          "n_meals": 1,
+          "avg_co2": 685.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 253.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 137.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 179.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 840.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 432.0
+        }
+      },
+      "overall_avg": 408.9
+    },
+    "18.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 396.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 2521.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 80.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1576.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 518.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 204.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 472.0
+        }
+      },
+      "overall_avg": 720.9
+    },
+    "19.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 989.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 227.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 2968.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 118.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 1101.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 468.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 61.0
+        }
+      },
+      "overall_avg": 741.5
+    },
+    "20.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 187.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 1102.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 357.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 2,
+          "avg_co2": 905.5
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1455.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 451.0
+        }
+      },
+      "overall_avg": 670.4
+    },
+    "21.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 415.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 83.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 1489.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 855.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 491.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 287.0
+        }
+      },
+      "overall_avg": 517.1
+    },
+    "22.12.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 537.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 109.0
+        },
+        "Fleisch": {
+          "n_meals": 2,
+          "avg_co2": 539.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 159.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 349.0
+        }
+      },
+      "overall_avg": 372.0
+    },
+    "23.12.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 256.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 1258.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 194.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 607.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 518.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 175.0
+        }
+      },
+      "overall_avg": 429.7
+    },
+    "07.01.2026": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 415.0
+        },
+        "Pizza": {
+          "n_meals": 1,
+          "avg_co2": 968.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 536.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 357.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 416.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 65.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 317.0
+        }
+      },
+      "overall_avg": 439.1
+    },
+    "08.01.2026": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 1001.0
+        },
+        "Pizza": {
+          "n_meals": 1,
+          "avg_co2": 398.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 759.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 927.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 237.0
+        },
+        "": {
+          "n_meals": 1,
+          "avg_co2": 237.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 2,
+          "avg_co2": 646.5
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 312.0
+        }
+      },
+      "overall_avg": 573.8
+    },
+    "09.01.2026": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 336.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 117.0
+        },
+        "": {
+          "n_meals": 1,
+          "avg_co2": 117.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 886.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 285.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 1511.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 586.0
+        }
+      },
+      "overall_avg": 479.8
     }
   },
   "Mensa Lothstr.": {
@@ -5120,6 +6091,277 @@
         }
       },
       "overall_avg": 476.3
+    },
+    "10.11.2025": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 144.0
+        },
+        "Gericht 1": {
+          "n_meals": 1,
+          "avg_co2": 734.0
+        },
+        "Gericht 2": {
+          "n_meals": 3,
+          "avg_co2": 562.3
+        }
+      },
+      "overall_avg": 513.0
+    },
+    "11.11.2025": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 102.0
+        },
+        "Gericht 1": {
+          "n_meals": 1,
+          "avg_co2": 288.0
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 1011.0
+        },
+        "Pizza Veggie": {
+          "n_meals": 1,
+          "avg_co2": 426.0
+        }
+      },
+      "overall_avg": 456.8
+    },
+    "12.11.2025": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 78.0
+        },
+        "Gericht 2": {
+          "n_meals": 2,
+          "avg_co2": 684.0
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 1274.0
+        }
+      },
+      "overall_avg": 680.0
+    },
+    "13.11.2025": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 71.0
+        },
+        "Gericht 1": {
+          "n_meals": 1,
+          "avg_co2": 225.0
+        },
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 965.0
+        },
+        "Pizza Veggie": {
+          "n_meals": 1,
+          "avg_co2": 963.0
+        }
+      },
+      "overall_avg": 556.0
+    },
+    "14.11.2025": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 267.0
+        },
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 427.0
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 554.0
+        }
+      },
+      "overall_avg": 416.0
+    },
+    "17.11.2025": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 137.0
+        },
+        "Gericht 2": {
+          "n_meals": 2,
+          "avg_co2": 579.5
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 223.0
+        }
+      },
+      "overall_avg": 379.8
+    },
+    "18.11.2025": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 80.0
+        },
+        "Gericht 1": {
+          "n_meals": 1,
+          "avg_co2": 292.0
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 1595.0
+        },
+        "Pizza Veggie": {
+          "n_meals": 1,
+          "avg_co2": 746.0
+        }
+      },
+      "overall_avg": 678.2
+    },
+    "19.11.2025": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 97.0
+        },
+        "Gericht 2": {
+          "n_meals": 2,
+          "avg_co2": 689.5
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 1008.0
+        }
+      },
+      "overall_avg": 621.0
+    },
+    "20.11.2025": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 357.0
+        },
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 310.0
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 1455.0
+        },
+        "Pizza Veggie": {
+          "n_meals": 1,
+          "avg_co2": 676.0
+        }
+      },
+      "overall_avg": 699.5
+    },
+    "21.11.2025": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 83.0
+        },
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 412.0
+        },
+        "Gericht 4": {
+          "n_meals": 1,
+          "avg_co2": 1272.0
+        }
+      },
+      "overall_avg": 589.0
+    },
+    "22.12.2025": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 78.0
+        },
+        "Gericht 1": {
+          "n_meals": 2,
+          "avg_co2": 797.0
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 1599.0
+        }
+      },
+      "overall_avg": 817.8
+    },
+    "23.12.2025": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 197.0
+        },
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 522.0
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 740.0
+        }
+      },
+      "overall_avg": 486.3
+    },
+    "07.01.2026": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 357.0
+        },
+        "Gericht 1": {
+          "n_meals": 1,
+          "avg_co2": 1057.0
+        },
+        "Gericht 2": {
+          "n_meals": 2,
+          "avg_co2": 416.0
+        }
+      },
+      "overall_avg": 561.5
+    },
+    "08.01.2026": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 246.0
+        },
+        "Gericht 1": {
+          "n_meals": 1,
+          "avg_co2": 1200.0
+        },
+        "Gericht 2": {
+          "n_meals": 2,
+          "avg_co2": 794.5
+        }
+      },
+      "overall_avg": 758.8
+    },
+    "09.01.2026": {
+      "categories": {
+        "StudiTopf": {
+          "n_meals": 1,
+          "avg_co2": 118.0
+        },
+        "Gericht 2": {
+          "n_meals": 2,
+          "avg_co2": 547.5
+        },
+        "Gericht 4": {
+          "n_meals": 1,
+          "avg_co2": 1670.0
+        }
+      },
+      "overall_avg": 720.8
     }
   },
   "Mensa Garching": {
@@ -7250,6 +8492,589 @@
         }
       },
       "overall_avg": 513.4
+    },
+    "10.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 890.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 734.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 256.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 163.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1011.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 186.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 97.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 317.0
+        },
+        "": {
+          "n_meals": 2,
+          "avg_co2": 317.0
+        }
+      },
+      "overall_avg": 428.8
+    },
+    "11.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 197.0
+        },
+        "Pizza": {
+          "n_meals": 1,
+          "avg_co2": 707.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 2540.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 99.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 102.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1274.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 414.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 144.0
+        },
+        "": {
+          "n_meals": 2,
+          "avg_co2": 144.0
+        }
+      },
+      "overall_avg": 524.1
+    },
+    "12.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 998.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 278.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 7861.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 78.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 367.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1257.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 87.0
+        },
+        "": {
+          "n_meals": 2,
+          "avg_co2": 87.0
+        }
+      },
+      "overall_avg": 1110.0
+    },
+    "13.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 449.0
+        },
+        "Pizza": {
+          "n_meals": 1,
+          "avg_co2": 584.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 944.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 220.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 71.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1334.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 217.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 390.0
+        },
+        "": {
+          "n_meals": 2,
+          "avg_co2": 390.0
+        }
+      },
+      "overall_avg": 453.5
+    },
+    "14.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 485.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 231.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 298.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1288.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 491.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 205.0
+        },
+        "": {
+          "n_meals": 2,
+          "avg_co2": 205.0
+        }
+      },
+      "overall_avg": 378.7
+    },
+    "17.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 469.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 759.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 251.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 137.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 179.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 894.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 280.0
+        },
+        "": {
+          "n_meals": 2,
+          "avg_co2": 280.0
+        }
+      },
+      "overall_avg": 352.9
+    },
+    "18.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 396.0
+        },
+        "Pizza": {
+          "n_meals": 1,
+          "avg_co2": 1562.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 1535.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 80.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1443.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 518.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 204.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 204.0
+        },
+        "": {
+          "n_meals": 2,
+          "avg_co2": 204.0
+        }
+      },
+      "overall_avg": 577.3
+    },
+    "19.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 993.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 227.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 1365.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 120.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 1003.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 287.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 78.0
+        },
+        "": {
+          "n_meals": 2,
+          "avg_co2": 78.0
+        }
+      },
+      "overall_avg": 422.9
+    },
+    "20.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 218.0
+        },
+        "Pizza": {
+          "n_meals": 1,
+          "avg_co2": 594.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 1327.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 355.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 2,
+          "avg_co2": 895.5
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 2638.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 376.0
+        },
+        "": {
+          "n_meals": 2,
+          "avg_co2": 376.0
+        }
+      },
+      "overall_avg": 731.9
+    },
+    "21.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 415.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 83.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 723.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1332.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 432.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 227.0
+        },
+        "": {
+          "n_meals": 2,
+          "avg_co2": 227.0
+        }
+      },
+      "overall_avg": 407.3
+    },
+    "22.12.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 843.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 846.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 55.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 505.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 65.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 304.0
+        }
+      },
+      "overall_avg": 436.3
+    },
+    "23.12.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 203.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 194.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 608.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 428.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 175.0
+        }
+      },
+      "overall_avg": 268.0
+    },
+    "07.01.2026": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 305.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 536.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 350.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 416.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 119.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 60.0
+        },
+        "": {
+          "n_meals": 2,
+          "avg_co2": 60.0
+        }
+      },
+      "overall_avg": 238.2
+    },
+    "08.01.2026": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 1001.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 759.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 927.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 246.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 2,
+          "avg_co2": 552.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 230.0
+        },
+        "": {
+          "n_meals": 2,
+          "avg_co2": 230.0
+        }
+      },
+      "overall_avg": 472.7
+    },
+    "09.01.2026": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 415.0
+        },
+        "Studitopf": {
+          "n_meals": 1,
+          "avg_co2": 116.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 478.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 789.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 285.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 218.0
+        },
+        "Tagessupe, Brot, Obst": {
+          "n_meals": 1,
+          "avg_co2": 0.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 347.0
+        },
+        "": {
+          "n_meals": 2,
+          "avg_co2": 347.0
+        }
+      },
+      "overall_avg": 334.2
     }
   },
   "StuBistro Garching": {},
@@ -8200,6 +10025,193 @@
         }
       },
       "overall_avg": 1075.0
+    },
+    "10.11.2025": {
+      "categories": {
+        "Gericht 1": {
+          "n_meals": 1,
+          "avg_co2": 734.0
+        },
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 891.0
+        }
+      },
+      "overall_avg": 812.5
+    },
+    "11.11.2025": {
+      "categories": {
+        "Gericht 1": {
+          "n_meals": 1,
+          "avg_co2": 197.0
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 1011.0
+        }
+      },
+      "overall_avg": 604.0
+    },
+    "12.11.2025": {
+      "categories": {
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 367.0
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 1274.0
+        }
+      },
+      "overall_avg": 820.5
+    },
+    "13.11.2025": {
+      "categories": {
+        "Gericht 1": {
+          "n_meals": 1,
+          "avg_co2": 223.0
+        },
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 965.0
+        }
+      },
+      "overall_avg": 594.0
+    },
+    "14.11.2025": {
+      "categories": {
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 427.0
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 554.0
+        }
+      },
+      "overall_avg": 490.5
+    },
+    "17.11.2025": {
+      "categories": {
+        "Gericht 2": {
+          "n_meals": 2,
+          "avg_co2": 555.5
+        }
+      },
+      "overall_avg": 555.5
+    },
+    "18.11.2025": {
+      "categories": {
+        "Gericht 1": {
+          "n_meals": 1,
+          "avg_co2": 309.0
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 1576.0
+        }
+      },
+      "overall_avg": 942.5
+    },
+    "19.11.2025": {
+      "categories": {
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 1064.0
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 1008.0
+        }
+      },
+      "overall_avg": 1036.0
+    },
+    "20.11.2025": {
+      "categories": {
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 184.0
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 1455.0
+        }
+      },
+      "overall_avg": 819.5
+    },
+    "21.11.2025": {
+      "categories": {
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 412.0
+        },
+        "Gericht 4": {
+          "n_meals": 1,
+          "avg_co2": 1252.0
+        }
+      },
+      "overall_avg": 832.0
+    },
+    "22.12.2025": {
+      "categories": {
+        "Gericht 1": {
+          "n_meals": 2,
+          "avg_co2": 864.0
+        }
+      },
+      "overall_avg": 864.0
+    },
+    "23.12.2025": {
+      "categories": {
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 522.0
+        },
+        "Gericht 3": {
+          "n_meals": 1,
+          "avg_co2": 726.0
+        }
+      },
+      "overall_avg": 624.0
+    },
+    "07.01.2026": {
+      "categories": {
+        "Gericht 1": {
+          "n_meals": 1,
+          "avg_co2": 1057.0
+        },
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 296.0
+        }
+      },
+      "overall_avg": 676.5
+    },
+    "08.01.2026": {
+      "categories": {
+        "Gericht 1": {
+          "n_meals": 1,
+          "avg_co2": 1001.0
+        },
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 927.0
+        }
+      },
+      "overall_avg": 964.0
+    },
+    "09.01.2026": {
+      "categories": {
+        "Gericht 2": {
+          "n_meals": 1,
+          "avg_co2": 427.0
+        },
+        "Gericht 4": {
+          "n_meals": 1,
+          "avg_co2": 1670.0
+        }
+      },
+      "overall_avg": 1048.5
     }
   },
   "StuBistro Karlstr.": {
@@ -9686,6 +11698,252 @@
         }
       },
       "overall_avg": 674.0
+    },
+    "10.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 316.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 210.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1188.0
+        },
+        "": {
+          "n_meals": 1,
+          "avg_co2": 1188.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 510.0
+        }
+      },
+      "overall_avg": 682.4
+    },
+    "11.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 799.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 258.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1761.0
+        }
+      },
+      "overall_avg": 939.3
+    },
+    "12.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 341.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 286.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 982.0
+        }
+      },
+      "overall_avg": 536.3
+    },
+    "13.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 286.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 444.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1688.0
+        }
+      },
+      "overall_avg": 806.0
+    },
+    "14.11.2025": {
+      "categories": {
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1503.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 347.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 214.0
+        }
+      },
+      "overall_avg": 688.0
+    },
+    "17.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 511.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1393.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 551.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 515.0
+        }
+      },
+      "overall_avg": 742.5
+    },
+    "18.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 875.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1010.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 72.0
+        }
+      },
+      "overall_avg": 652.3
+    },
+    "19.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 894.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 74.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1895.0
+        }
+      },
+      "overall_avg": 954.3
+    },
+    "20.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 532.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 697.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 2231.0
+        }
+      },
+      "overall_avg": 1153.3
+    },
+    "21.11.2025": {
+      "categories": {
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 296.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 412.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 286.0
+        }
+      },
+      "overall_avg": 331.3
+    },
+    "22.12.2025": {
+      "categories": {
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 221.0
+        },
+        "": {
+          "n_meals": 5,
+          "avg_co2": 587.8
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 510.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 1766.0
+        }
+      },
+      "overall_avg": 679.5
+    },
+    "07.01.2026": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 703.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 475.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 660.0
+        },
+        "Dessert (Glas)": {
+          "n_meals": 1,
+          "avg_co2": 513.0
+        }
+      },
+      "overall_avg": 587.8
+    },
+    "08.01.2026": {
+      "categories": {
+        "Vegan": {
+          "n_meals": 2,
+          "avg_co2": 956.5
+        }
+      },
+      "overall_avg": 956.5
+    },
+    "09.01.2026": {
+      "categories": {
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1002.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 343.0
+        }
+      },
+      "overall_avg": 672.5
     }
   },
   "StuBistro BEP": {
@@ -10253,6 +12511,205 @@
         }
       },
       "overall_avg": 936.0
+    },
+    "10.11.2025": {
+      "categories": {
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 256.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1011.0
+        }
+      },
+      "overall_avg": 633.5
+    },
+    "11.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 197.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1274.0
+        }
+      },
+      "overall_avg": 735.5
+    },
+    "12.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 998.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 7151.0
+        }
+      },
+      "overall_avg": 4074.5
+    },
+    "13.11.2025": {
+      "categories": {
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 965.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 207.0
+        }
+      },
+      "overall_avg": 586.0
+    },
+    "14.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 702.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1288.0
+        }
+      },
+      "overall_avg": 995.0
+    },
+    "17.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 469.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 840.0
+        }
+      },
+      "overall_avg": 654.5
+    },
+    "18.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 396.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1576.0
+        }
+      },
+      "overall_avg": 986.0
+    },
+    "19.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 1008.0
+        },
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 1101.0
+        }
+      },
+      "overall_avg": 1054.5
+    },
+    "20.11.2025": {
+      "categories": {
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 1153.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1455.0
+        }
+      },
+      "overall_avg": 1304.0
+    },
+    "21.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 415.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1252.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 491.0
+        }
+      },
+      "overall_avg": 719.3
+    },
+    "22.12.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 537.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1010.0
+        }
+      },
+      "overall_avg": 773.5
+    },
+    "23.12.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 256.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 646.0
+        }
+      },
+      "overall_avg": 451.0
+    },
+    "07.01.2026": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 415.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1057.0
+        }
+      },
+      "overall_avg": 736.0
+    },
+    "08.01.2026": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 1001.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 927.0
+        }
+      },
+      "overall_avg": 964.0
+    },
+    "09.01.2026": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 336.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 285.0
+        }
+      },
+      "overall_avg": 310.5
     }
   },
   "StuBistro Arcisstr.": {},
@@ -11035,6 +13492,201 @@
         }
       },
       "overall_avg": 936.0
+    },
+    "10.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 891.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 734.0
+        }
+      },
+      "overall_avg": 812.5
+    },
+    "11.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 197.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1274.0
+        }
+      },
+      "overall_avg": 735.5
+    },
+    "12.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 998.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 7151.0
+        }
+      },
+      "overall_avg": 4074.5
+    },
+    "13.11.2025": {
+      "categories": {
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 965.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 207.0
+        }
+      },
+      "overall_avg": 586.0
+    },
+    "14.11.2025": {
+      "categories": {
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1288.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 737.0
+        }
+      },
+      "overall_avg": 1012.5
+    },
+    "17.11.2025": {
+      "categories": {
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 179.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 840.0
+        }
+      },
+      "overall_avg": 509.5
+    },
+    "18.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 396.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 2521.0
+        }
+      },
+      "overall_avg": 1458.5
+    },
+    "19.11.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 1005.0
+        },
+        "Vegan": {
+          "n_meals": 1,
+          "avg_co2": 278.0
+        }
+      },
+      "overall_avg": 641.5
+    },
+    "20.11.2025": {
+      "categories": {
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 1153.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1455.0
+        }
+      },
+      "overall_avg": 1304.0
+    },
+    "21.11.2025": {
+      "categories": {
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1252.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 491.0
+        }
+      },
+      "overall_avg": 871.5
+    },
+    "22.12.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 511.0
+        },
+        "Wok": {
+          "n_meals": 1,
+          "avg_co2": 225.0
+        },
+        "Fleisch": {
+          "n_meals": 1,
+          "avg_co2": 1339.0
+        }
+      },
+      "overall_avg": 691.7
+    },
+    "23.12.2025": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 251.0
+        },
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 1044.0
+        }
+      },
+      "overall_avg": 647.5
+    },
+    "07.01.2026": {
+      "categories": {
+        "Vegetarisch/fleischlos": {
+          "n_meals": 1,
+          "avg_co2": 416.0
+        }
+      },
+      "overall_avg": 416.0
+    },
+    "08.01.2026": {
+      "categories": {
+        "Pasta": {
+          "n_meals": 1,
+          "avg_co2": 1001.0
+        },
+        "Grill": {
+          "n_meals": 1,
+          "avg_co2": 756.0
+        }
+      },
+      "overall_avg": 878.5
+    },
+    "09.01.2026": {
+      "categories": {
+        "Fisch": {
+          "n_meals": 1,
+          "avg_co2": 789.0
+        },
+        "SÃ¼Ãspeise": {
+          "n_meals": 1,
+          "avg_co2": 285.0
+        }
+      },
+      "overall_avg": 537.0
     }
   },
   "StuBistro Oettingenstr.": {
